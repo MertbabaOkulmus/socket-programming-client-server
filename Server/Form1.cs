@@ -22,7 +22,7 @@ namespace Server
         private void Form1_Load(object sender, EventArgs e)
         { //listener üret ve listener ı dinlemeye başla
             Int32 port = 1453;
-            IPAddress localAddr = IPAddress.Parse("192.168.1.45");
+            IPAddress localAddr = IPAddress.Parse("192.168.1.42");
             listener = new TcpListener(localAddr,port);//Tcp listener 1453 portunu sürekli olaran dinler 
             listener.Start();
 
@@ -45,6 +45,14 @@ namespace Server
                 //Socket conected sa git stream in içindeki veriyi al o veriyi Serileştir(Deserialize)
                 Mesaj alinan = (Mesaj)bf.Deserialize(stream);
                 listBox1.Items.Add(alinan);//aldığını listBox a yaz
+                
+                Mesaj msg = new Mesaj();
+                msg.Gonderen = "Server";
+                msg.Gonderim = DateTime.Now;
+                msg.Mesaji = Convert.ToString(alinan);
+                listBox1.Items.Add(msg);
+                bf.Serialize(stream, msg);//stream networkStream dır , networkStream içerisine konan socket e verilir socket de gönderir
+                stream.Flush();//göderim yapıldı
             }
         }
         private void button1_Click(object sender, EventArgs e)

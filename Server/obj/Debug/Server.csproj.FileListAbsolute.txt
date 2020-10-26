@@ -8,3 +8,13 @@ C:\Users\mertb\source\repos\Sockets\MESAJ\Mesajci\Server\obj\Debug\Server.csproj
 C:\Users\mertb\source\repos\Sockets\MESAJ\Mesajci\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\mertb\source\repos\Sockets\MESAJ\Mesajci\Server\obj\Debug\Server.exe
 C:\Users\mertb\source\repos\Sockets\MESAJ\Mesajci\Server\obj\Debug\Server.pdb
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\bin\Debug\Server.exe.config
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\bin\Debug\Server.exe
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\bin\Debug\Server.pdb
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.Form1.resources
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.exe
+C:\Users\mertb\OneDrive\Masaüstü\github\socket-programming-client-server\Server\obj\Debug\Server.pdb
