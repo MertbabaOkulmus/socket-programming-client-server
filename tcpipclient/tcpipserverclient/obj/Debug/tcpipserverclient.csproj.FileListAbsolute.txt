@@ -1,0 +1,10 @@
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\bin\Debug\tcpipserverclient.exe.config
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\bin\Debug\tcpipserverclient.exe
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\bin\Debug\tcpipserverclient.pdb
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.csprojAssemblyReference.cache
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.Form1.resources
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.Properties.Resources.resources
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.exe
+C:\Users\batuh\source\repos\tcpipserverclient\tcpipserverclient\obj\Debug\tcpipserverclient.pdb
