@@ -4,7 +4,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace Client
+namespace Client//
 {
     public partial class Form1 : Form
     {
